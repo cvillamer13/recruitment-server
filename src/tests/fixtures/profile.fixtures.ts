@@ -1,0 +1,11 @@
+export const TokenFixture = {
+  tokenId:
+    'eyJhbGciOiJSUzI1NiIsImtpZCI6IjU0NWUyNDZjNTEwNmExMGQ2MzFiMTA0M2E3MWJiNTllNWJhMGM5NGQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vanVhbmNhcmVlcnMtMjAyMyIsImF1ZCI6Imp1YW5jYXJlZXJzLTIwMjMiLCJhdXRoX3RpbWUiOjE2ODU5NDQ2OTEsInVzZXJfaWQiOiJFeVhhN3cwS3FjT253RHdEQldzckRaQTNzT1UyIiwic3ViIjoiRXlYYTd3MEtxY09ud0R3REJXc3JEWkEzc09VMiIsImlhdCI6MTY4NTk0NDY5MSwiZXhwIjoxNjg1OTQ4MjkxLCJlbWFpbCI6ImN2aWxsYW1lcjMxQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImVtYWlsIjpbImN2aWxsYW1lcjMxQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.fsIiPCRDFEDmXezDRCCcM1pmXanW8WQ1oXgqPApvfovxXI0DTjno2t1H_qjr-bEBZn_06w0RDQ_V7_DijV68lCLklm7hUVfNXFDFvwtCuMZtBD2fMt-ECUoTh2CPFNxQ1IlnSHKSCxMVLFOPKD5sPUgVe6WSU-YlrQzbzsAT1b-ZHkrqnW7w_NdT734g81dxukcEJD57hnG-GDLn70yhi7mCEDlxEg83Vq9lRqn6WZjb3tF3ZRbZ-Bv1pqUpsJyGeWe1_ckqB936qxB65WwnjT0ztDXSzmapbIoEB97Mu9ASvhpDQdbsrZ1p-XrgZoEn_3U_mA-enjuomeKF-TktJg',
+  bio: 'TEST BIO',
+  link: 'cvillamer13.weblazes.com',
+  rate: 500, // hourly
+  skills: ['NodeJS', 'PHP', 'MySQL'],
+  pictureURL: 'https://weblazes.com/cvillamer13/Image/a.jpg',
+  workspaceURL: 'Null',
+  introductionURL: 'Null',
+}
